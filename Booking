@@ -39,13 +39,13 @@
 <script src="https://www.gstatic.com/firebasejs/5.5.1/firebase.js"></script>
 <script>
   // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyAiGnlZ4uAAFR00g3p_ZnvNBXFQqlD2QhI",
-    authDomain: "airbnb-e5d07.firebaseapp.com",
-    databaseURL: "https://airbnb-e5d07.firebaseio.com",
-    projectId: "airbnb-e5d07",
-    storageBucket: "airbnb-e5d07.appspot.com",
-    messagingSenderId: "131403416817"
+var config = {
+    apiKey: "AIzaSyDN_eseJm8CnZB2QYEOlvBn0o5wP8WiJPs",
+    authDomain: "airbnb-a8282.firebaseapp.com",
+    databaseURL: "https://airbnb-a8282.firebaseio.com",
+    projectId: "airbnb-a8282",
+    storageBucket: "airbnb-a8282.appspot.com",
+    messagingSenderId: "186528616051"
   };
 
   firebase.initializeApp(config);
